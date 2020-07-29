@@ -1,6 +1,6 @@
 #### 先放图，献丑了  
-[图1](/img/runaway.gif)  
-[图1](/img/shenteng.gif)  
+![图1](/img/runaway.gif)  
+![图2](/img/shenteng.gif)  
 
 ### Demo
 
@@ -8,7 +8,7 @@
 2. post方法，重复请求时，保留第一次，取消后面的请求。取消后面的请求，使用的是直接调用Promise.reject()，直接打到instance.interceptors.response.use的error下  
 3. 通过 md5.hex(url + JSON.stringify(params) + JSON.stringify(data))来判断是否是相同请求。计算后的key值放入request.header中，请求完成后可以直接获取到  
 4. 一定要重复请求的接口可以在参数中添加随机数，或者用全局白名单  
-```
+```  
 import axios from 'axios'
 import md5 from 'js-md5'
 
@@ -116,7 +116,7 @@ instance.interceptors.response.use(
 )
 
 export default instance
-```
+```  
 
 其他问题：
 1. 因网络等问题导致请求失败，会导致该已完成请求不能从队列中删除。未解决
