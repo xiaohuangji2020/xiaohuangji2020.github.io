@@ -1,9 +1,10 @@
-#### 先放图，献丑了  
+## ajax放重复点击  
+
+### 先放图，献丑了  
 ![图1](/img/runaway.gif)  
 ![图2](/img/shenteng.gif)  
 
-### Demo
-
+### Demo  
 1. get方法，重复请求时，保留最后一次，取消之前的请求。取消之前的请求，使用的是cancelToken  
 2. post方法，重复请求时，保留第一次，取消后面的请求。取消后面的请求，使用的是直接调用Promise.reject()，直接打到instance.interceptors.response.use的error下  
 3. 通过 md5.hex(url + JSON.stringify(params) + JSON.stringify(data))来判断是否是相同请求。计算后的key值放入request.header中，请求完成后可以直接获取到  
