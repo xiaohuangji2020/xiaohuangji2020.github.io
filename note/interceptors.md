@@ -8,7 +8,7 @@
 2. post方法，重复请求时，保留第一次，取消后面的请求。取消后面的请求，使用的是直接调用Promise.reject()，直接打到instance.interceptors.response.use的error下  
 3. 通过 md5.hex(url + JSON.stringify(params) + JSON.stringify(data))来判断是否是相同请求。计算后的key值放入request.header中，请求完成后可以直接获取到  
 4. 一定要重复请求的接口可以在参数中添加随机数，或者用全局白名单  
-```  
+```javascript  
 import axios from 'axios'
 import md5 from 'js-md5'
 
@@ -115,7 +115,7 @@ instance.interceptors.response.use(
   }
 )
 
-export default instance
+export default instance   
 ```  
 
 其他问题：
