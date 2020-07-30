@@ -1,5 +1,5 @@
-## ajax防重复点击  
 <a href="/" style="float:right">回首页</a>
+## ajax防重复点击  
 ### 先放图，献丑了  
 ![图1](/img/runaway.gif)  
 ![图2](/img/shenteng.gif)  
