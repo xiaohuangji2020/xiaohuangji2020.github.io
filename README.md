@@ -18,12 +18,12 @@
 
 ### music  
 来首歌听听吧
-1. [music [对弈](https://www.kugou.com/share/4qa7T49wnV3.html?id=4qa7T49wnV3#hash=B086363C780EF19E595152921231018B) 来源：酷狗音乐]<audio controls src="https://webfs.yun.kugou.com/202007310954/6aab45ec9dc5124c25d2084a029dfc3e/G234/M08/05/11/ypQEAF8abFqAFpa5AECK0KCj_TM811.mp3" preload="auto">你的浏览器不支持标签.</audio>
+1. [music [对弈](https://www.kugou.com/share/4qa7T49wnV3.html?id=4qa7T49wnV3#hash=B086363C780EF19E595152921231018B) 来源：酷狗音乐]<audio controls src="https://webfs.yun.kugou.com/202007310954/6aab45ec9dc5124c25d2084a029dfc3e/G234/M08/05/11/ypQEAF8abFqAFpa5AECK0KCj_TM811.mp3" preload="auto">[什么浏览器啊，还不支持audio标签。]</audio>
 
 ---  
 
 ### My Note  
-我的笔记  
+我的笔记(都写在为知笔记里了，实在是懒得再弄一份过来，弄过来还得维护两份)  
 1. [ajax防重复点击](/note/interceptors)  
 
 ---
