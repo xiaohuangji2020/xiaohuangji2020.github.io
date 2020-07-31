@@ -14,6 +14,10 @@
 2. 第二个呆了两年多，因为后期上层宠信奸佞，搞得员不聊生，就撤了；  
 3. 目前在第三家一切安好  
 
+来首歌听听 [对弈](https://www.kugou.com/share/4qa7T49wnV3.html?id=4qa7T49wnV3#hash=B086363C780EF19E595152921231018B)  
+或者直接播放  
+<audio src="https://webfs.yun.kugou.com/202007310954/6aab45ec9dc5124c25d2084a029dfc3e/G234/M08/05/11/ypQEAF8abFqAFpa5AECK0KCj_TM811.mp3" preload="auto">你的浏览器不支持标签.</audio>  
+
 ---  
 
 ### My Note  
