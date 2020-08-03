@@ -18,7 +18,7 @@
 
 ### music  
 来首歌听听吧
-1. [music [对弈](https://www.kugou.com/share/4qa7T49wnV3.html?id=4qa7T49wnV3#hash=B086363C780EF19E595152921231018B) 来源：酷狗音乐]<audio controls src="https://webfs.yun.kugou.com/202007310954/6aab45ec9dc5124c25d2084a029dfc3e/G234/M08/05/11/ypQEAF8abFqAFpa5AECK0KCj_TM811.mp3" preload="auto">[什么浏览器啊，还不支持audio标签。]</audio>
+1. [music [对弈](https://www.kugou.com/share/4qa7T49wnV3.html?id=4qa7T49wnV3#hash=B086363C780EF19E595152921231018B) 来源：酷狗音乐]<audio controls src="/audio/duiyi.mp3" preload="auto">[什么浏览器啊，还不支持audio标签。]</audio>
 
 ---  
 
