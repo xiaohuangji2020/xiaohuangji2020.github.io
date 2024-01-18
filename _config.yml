@@ -1,1 +1,9 @@
-theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [寻森小黄叽]
+description: [召唤咒语：现身吧，小黄叽]
+# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
